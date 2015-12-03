@@ -1,0 +1,1 @@
+Set *dijkstra(Graph *g, Label source);
